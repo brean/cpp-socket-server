@@ -1,0 +1,6 @@
+# some very basic configuration
+broadcast:
+  # change port
+  port: 7000
+  # bind to any device
+  host: 0.0.0.0
